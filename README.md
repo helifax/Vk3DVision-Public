@@ -9,4 +9,5 @@
 *Please check my Patreon page for the project: https://www.patreon.com/Vk3DVision* \
 *If you decide to support this project, I would like to thank you in advance!*
 
-
+*If you want to see some of the games in all 3D glory (VR included) check out my tiny Youtube videos:*
+https://www.youtube.com/@Helifax19/videos
