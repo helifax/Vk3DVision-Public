@@ -1,6 +1,6 @@
 # Vk3DVision-Public
 ![Image of Yaktocat](http://3dsurroundgaming.com/slider_images/Vk3D_1.1.5.jpg)
-**Vulkan Driver to develop &amp; enable stereoscopic 3D rendering in games &amp; applications**\ 
+**Vulkan Driver to develop &amp; enable stereoscopic 3D rendering in games &amp; applications**\
 (*Virtual Reality, Nvidia 3D Vision, and general Side-by-Side & Top/Under & Hor./Vert. Interleaved 3D-TV Support*).
 
 **This repository only contains the releases of the driver!**\
